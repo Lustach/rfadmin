@@ -1,0 +1,619 @@
+{
+  "result": {
+    "status": true
+  },
+  "data": [
+    {
+      "id": 2,
+      "name": "Магазин Иркутск 2 (склад)",
+      "address": "г. Новосибирск, ул. asd, д. asd",
+      "uuid": "8e6d4e83-d4d7-11e3-9f85-001517c083a4",
+      "city": "Новосибирск",
+      "city_id": 1,
+      "geopos": {
+        "lat": 1,
+        "lng": 1
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Магазин Улан-Удэ 1 (склад)",
+      "address": "",
+      "uuid": "df41e430-28f1-11e4-9855-001517c083a4",
+      "city": "Москва",
+      "city_id": 3,
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Магазин Красноярск 2 (склад)",
+      "address": "",
+      "uuid": "57e967c1-bba9-11e3-98e8-001517c083a4",
+      "city": "Красноярск",
+      "city_id": 8,
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Магазин Саратов 1 (склад)",
+      "address": "",
+      "uuid": "0672ff31-478f-11e4-9855-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Магазин Уфа 1 (склад)",
+      "address": "",
+      "uuid": "3c7252c6-502b-11e4-9855-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Магазин Самара 1 (склад)",
+      "address": "",
+      "uuid": "f84a0378-49a3-11e6-983a-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Магазин Барнаул 2 (склад)",
+      "address": "",
+      "uuid": "4683b915-274d-11e4-9855-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Магазин Казань 2 (склад)",
+      "address": "",
+      "uuid": "af9ae172-a412-11e8-8e7d-005056a552c5",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Магазин Владивосток 1 (склад)",
+      "address": "",
+      "uuid": "92febfa1-983d-11e7-8d78-005056a552c5",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Магазин Новокузнецк 2 (склад)",
+      "address": "",
+      "uuid": "26897518-92a7-11e2-927e-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Магазин Барнаул 1 (склад)",
+      "address": "",
+      "uuid": "2689751b-92a7-11e2-927e-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Магазин Хабаровск 1 (склад)",
+      "address": "",
+      "uuid": "ef2539be-0a48-11e3-8237-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Магазин НСК 1 (склад)",
+      "address": "",
+      "uuid": "06cd042e-fb36-11e2-8237-001517c083a4",
+      "city": "Новосибирск",
+      "city_id": 1,
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Магазин НСК 2 (склад)",
+      "address": "",
+      "uuid": "9ff4762f-4212-11e3-a091-001517c083a4",
+      "city": "Новосибирск",
+      "city_id": 1,
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Магазин Красноярск 1 (склад)",
+      "address": "",
+      "uuid": "db45efe7-dd54-11e1-a14d-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Магазин Кемерово 2 (склад)",
+      "address": "",
+      "uuid": "9828a632-733b-11e4-ab98-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Магазин Челябинск 2 (склад)",
+      "address": "",
+      "uuid": "1e2a9e02-6413-11e4-ab98-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Магазин Иркутск 1 (склад)",
+      "address": "",
+      "uuid": "a13c011f-21c4-11e3-ade8-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Магазин Кемерово 1 (склад)",
+      "address": "",
+      "uuid": "5c243758-7d5c-11e1-ad0b-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Магазин Томск (склад)",
+      "address": "",
+      "uuid": "5c24375a-7d5c-11e1-ad0b-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Магазин Омск 1 (склад)",
+      "address": "",
+      "uuid": "5c24375c-7d5c-11e1-ad0b-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Магазин Казань 1 (склад)",
+      "address": "",
+      "uuid": "66170952-bb40-11e5-b3f7-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Магазин НСК 3 (склад)",
+      "address": "",
+      "uuid": "10069f3a-d05a-11e8-b2cb-005056a552c5",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Магазин Омск 2 (склад)",
+      "address": "",
+      "uuid": "533cbdf2-e7c7-11e2-b309-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Магазин Уфа 2 (склад)",
+      "address": "",
+      "uuid": "ad040de8-ccf4-11e8-b2cb-005056a552c5",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Магазин Екатеринбург 1 (склад)",
+      "address": "",
+      "uuid": "41d16c67-08e3-11e5-b778-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Магазин Тюмень (склад)",
+      "address": "",
+      "uuid": "b37e11f9-bdcb-11e2-b820-001517c083a4",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Магазин Тольятти 1 (склад)",
+      "address": "",
+      "uuid": "9cf7eda7-b978-11e9-bb4e-005056a552c5",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Магазин Москва 1 (склад)",
+      "address": "",
+      "uuid": "f69b9392-c2f1-11e9-bb4e-005056a552c5",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Алматы 1",
+      "address": "",
+      "uuid": "f1723da9-abe7-11e9-bb4e-005056a552c5",
+      "city": "",
+      "city_id": "",
+      "geopos": {
+        "lat": null,
+        "lng": null
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "sadsad",
+      "address": "г. Красноярск, ул. ads, д. sad",
+      "uuid": "sad",
+      "city": "Красноярск",
+      "city_id": 8,
+      "geopos": {
+        "lat": 1,
+        "lng": 1
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "ffff",
+      "address": "г. Москва, ул. asd, д. asd",
+      "uuid": "qwe",
+      "city": "Москва",
+      "city_id": 3,
+      "geopos": {
+        "lat": 1,
+        "lng": 1
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "bnmbnm",
+      "address": "г. Красноярск, ул. ads, д. sad",
+      "uuid": "qwesdfsd",
+      "city": "Красноярск",
+      "city_id": 8,
+      "geopos": {
+        "lat": 1,
+        "lng": 1
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "mvbmbv",
+      "address": "г. Москва, ул. ads, д. vbv",
+      "uuid": "vmvbvmmvvm",
+      "city": "Москва",
+      "city_id": 3,
+      "geopos": {
+        "lat": 1,
+        "lng": 1
+      },
+      "workTime": " ",
+      "information": null,
+      "photo": "https://nsk.rf-54.ru/upload/resize_cache/catalog/ddb/179_119_2/nsk1_15.09.2019.jpg",
+      "phones": [
+        "тел. 328-07-08, 8-913-019-77-10"
+      ]
+    }
+  ]
+}

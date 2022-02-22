@@ -1,0 +1,58 @@
+{
+  "result": {
+    "status": true
+  },
+  "data": [
+    {
+      "id": 1,
+      "name": "Новосибирск",
+      "translite": "novosibirsk",
+      "short_name": "нск",
+      "domain": "nsk",
+      "url": "/nsk",
+      "enabled": 1,
+      "country": "Россия",
+      "stores": [
+        "Магазин Иркутск 2 (склад)",
+        "Магазин НСК 1 (склад)",
+        "Магазин НСК 2 (склад)"
+      ],
+      "created_at": "2020-05-27T01:34:11.000000Z",
+      "updated_at": "2020-05-27T01:34:11.000000Z"
+    },
+    {
+      "id": 3,
+      "name": "Москва",
+      "translite": "moskva",
+      "short_name": "msk",
+      "domain": "msk",
+      "url": "/msk",
+      "enabled": 1,
+      "country": "Россия",
+      "stores": [
+        "Магазин Улан-Удэ 1 (склад)",
+        "ffff",
+        "mvbmbv"
+      ],
+      "created_at": "2020-05-27T01:34:11.000000Z",
+      "updated_at": "2020-05-27T01:34:11.000000Z"
+    },
+    {
+      "id": 8,
+      "name": "Красноярск",
+      "translite": "krasnoyarsk",
+      "short_name": "cr",
+      "domain": "cr",
+      "url": "/cr",
+      "enabled": 1,
+      "country": "Россия",
+      "stores": [
+        "Магазин Красноярск 2 (склад)",
+        "sadsad",
+        "bnmbnm"
+      ],
+      "created_at": "2020-07-09T00:53:25.000000Z",
+      "updated_at": "2020-07-09T00:53:25.000000Z"
+    }
+  ]
+}

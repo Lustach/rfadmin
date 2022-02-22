@@ -1,0 +1,44 @@
+[0917/172545.899:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.899:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.899:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.909:ERROR:exception_snapshot_win.cc(99)] thread ID 12608 not found in process
+[0917/172545.909:ERROR:exception_snapshot_win.cc(99)] thread ID 12728 not found in process
+[0917/172545.909:ERROR:exception_snapshot_win.cc(99)] thread ID 5592 not found in process
+[0917/172545.919:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.919:ERROR:exception_snapshot_win.cc(99)] thread ID 7844 not found in process
+[0917/172545.919:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.919:ERROR:exception_snapshot_win.cc(99)] thread ID 12580 not found in process
+[0917/172545.919:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.919:ERROR:exception_snapshot_win.cc(99)] thread ID 11740 not found in process
+[0917/172545.927:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.927:ERROR:exception_snapshot_win.cc(99)] thread ID 3552 not found in process
+[0917/172545.929:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.929:ERROR:exception_snapshot_win.cc(99)] thread ID 7504 not found in process
+[0917/172545.939:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.939:ERROR:exception_snapshot_win.cc(99)] thread ID 3424 not found in process
+[0917/172545.947:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.947:ERROR:exception_snapshot_win.cc(99)] thread ID 3900 not found in process
+[0917/172545.959:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.959:ERROR:exception_snapshot_win.cc(99)] thread ID 4960 not found in process
+[0917/172545.959:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.959:ERROR:exception_snapshot_win.cc(99)] thread ID 3844 not found in process
+[0917/172545.967:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.967:ERROR:exception_snapshot_win.cc(99)] thread ID 7048 not found in process
+[0917/172545.969:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.969:ERROR:exception_snapshot_win.cc(99)] thread ID 13160 not found in process
+[0917/172545.969:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.969:ERROR:exception_snapshot_win.cc(99)] thread ID 8104 not found in process
+[0917/172545.979:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.979:ERROR:exception_snapshot_win.cc(99)] thread ID 7160 not found in process
+[0917/172545.979:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.979:ERROR:exception_snapshot_win.cc(99)] thread ID 8412 not found in process
+[0917/172545.989:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.989:ERROR:exception_snapshot_win.cc(99)] thread ID 12428 not found in process
+[0917/172545.979:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.989:ERROR:exception_snapshot_win.cc(99)] thread ID 12708 not found in process
+[0917/172545.989:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.989:ERROR:exception_snapshot_win.cc(99)] thread ID 11120 not found in process
+[0917/172545.999:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.999:ERROR:process_reader_win.cc(123)] NtOpenThread: {�������� � �������} ������� �������� ������ � �������, �� ����� �� ������ �� �������������. (0xc0000022)
+[0917/172545.999:ERROR:exception_snapshot_win.cc(99)] thread ID 3580 not found in process
+[0917/172545.999:ERROR:exception_snapshot_win.cc(99)] thread ID 11276 not found in process
